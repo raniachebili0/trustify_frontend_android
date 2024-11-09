@@ -1,16 +1,1 @@
-Clean-Architectureof Jetpack-Compose-Android
 
-├── data
-│   ├── repository           # Implementation of repositories
-│   └── model                # Data Models (DTOs)
-├── di                       # Dependency injection
-├── domain
-│   ├── model                # Domain Models (Entitys)
-│   ├── repository           # Repository Interfaces
-│   └── usecase              # Use Case classes (business logic)
-└── presentation
-    ├── viewmodel            # ViewModel classes
-    ├── ui
-    │   ├── screen           # Screens created with Jetpack Compose
-    │   └── component        # UI components and composables
-    └── navigation           # Navigation setup (NavController or custom)﻿# trustify_frontend_android
